@@ -8,3 +8,4 @@ backend/target/
 backend/*.jar
 *.class
 .vercel
+backend/.env
